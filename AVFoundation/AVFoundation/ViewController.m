@@ -46,6 +46,7 @@
 -(void)test {
 
     NSLog(@"v2.0");
+     NSLog(@"v2.0");
 }
 
 
