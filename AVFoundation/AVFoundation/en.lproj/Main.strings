@@ -1,0 +1,24 @@
+
+/* Class = "UIButton"; normalTitle = "AVKit截图"; ObjectID = "K14-0G-5VJ"; */
+"K14-0G-5VJ.normalTitle" = "AVKit screenshots";
+
+/* Class = "UIButton"; normalTitle = "视频压缩"; ObjectID = "RUA-fF-ocV"; */
+"RUA-fF-ocV.normalTitle" = "Video compression";
+
+/* Class = "UIButton"; normalTitle = "带View"; ObjectID = "YcC-rS-tdQ"; */
+"YcC-rS-tdQ.normalTitle" = "带View";
+
+/* Class = "UILabel"; text = "ios9之前的播放控制器 "; ObjectID = "h6I-Ww-8cC"; */
+"h6I-Ww-8cC.text" = "ios9之前的播放控制器 ";
+
+/* Class = "UIButton"; normalTitle = "不带View"; ObjectID = "jn3-Du-f3c"; */
+"jn3-Du-f3c.normalTitle" = "不带View";
+
+/* Class = "UILabel"; text = "ios9之后的播放控制器 "; ObjectID = "nJu-qX-HK7"; */
+"nJu-qX-HK7.text" = "ios9之后的播放控制器 ";
+
+/* Class = "UIButton"; normalTitle = "AVKit"; ObjectID = "qN9-K3-gFV"; */
+"qN9-K3-gFV.normalTitle" = "AVKit";
+
+/* Class = "UIButton"; normalTitle = "视频录制"; ObjectID = "vqA-H3-Gfn"; */
+"vqA-H3-Gfn.normalTitle" = "视频录制";

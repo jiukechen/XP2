@@ -1,0 +1,12 @@
+/* 
+  en.strings
+  AVFoundation
+
+  Created by luowei on 18/2/7.
+  Copyright © 2018年 luowei. All rights reserved.
+*/
+
+
+"title"="audio";
+"message"="good good start";
+"commit"="cancel";
